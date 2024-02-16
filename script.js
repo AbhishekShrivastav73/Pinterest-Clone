@@ -44,7 +44,7 @@ var arr = [
 
     input.addEventListener('input',function(){
         let match = arr.filter((e)=>{
-            return e.name.toLowerCase().startsWith(input.value)
+            return e.name.toLowerCase().startsWith(input.value.toLowerCase())
         })
         let clutter ='';
         let newCard = '';
