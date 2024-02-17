@@ -2,6 +2,9 @@
 
 Welcome to our Pinterest clone! This stunning project brings the magic of Pinterest to your fingertips. Crafted with love using Tailwind CSS and JavaScript, it offers a delightful experience with responsive design and powerful search capabilities.
 
+<img width="945" alt="Screenshot 2024-02-17 234129" src="https://github.com/AbhishekShrivastav73/Pinterest-Clone/assets/147899930/36c883d7-fc8c-42cb-9df3-cb4e901d7268">
+<img width="945" alt="Screenshot 2024-02-17 234148" src="https://github.com/AbhishekShrivastav73/Pinterest-Clone/assets/147899930/aebbb86a-8baa-4074-a015-5722499a67d9">
+
 ## ✨ Features
 
 - **Search Magic**: Dive into the vast world of pins and explore your interests with our intuitive search feature.
